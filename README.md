@@ -8,10 +8,9 @@ Este é o meu primeiro 'portfólio' e também meu primeiro projeto. Trata-se de 
 
 - HTML
 - CSS
-- JavaScript
 
-## Visite o Site
+### Screenshot do Site
 
-Você pode acessar o site [aqui](https://itsleila.github.io/SobreMim/).
+![banner inicial do site 🖼️](imgs/site_foto.png)
 
-*Data:* 20-06-2023
+_Data:_ 20-06-2023
